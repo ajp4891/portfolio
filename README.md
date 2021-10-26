@@ -1,7 +1,7 @@
 # Telling-the-Stories-With-Data
 
 ## About me
-This is my public portfolio for Telling Stories with Data.
+Hi, I am Ajay Patel (He/Him/His). Currently I am a graduate student at CMU. I am here to understand the way data can be represented and communicated better with an impact in a simpler or in the best way.
 
 ## What I hope to learn
 - Controlling the use of colors, make it more impactful.
