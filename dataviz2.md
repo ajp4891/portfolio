@@ -21,6 +21,8 @@ Here we can see the range for the Debt-to-GDP trend of a country over past few y
    This chart provides simplicity in order to have an action-item planned, while previous line chart just gives the trend. Colors are wisely chosen to not give the false satisfaction that the lower debt is good, while in the real-world having 0 debt is considered good (hence no green color for the lowest value for these data). Red provides alarming feel to it, additionally darker red gives more intense feel, respectively. 
    
    Overall this graph provides a brief understanding to the audience about the current(2019) trend and position of countries in respect to Debt-To-GDP ratio and their previous position.
+   
+   For e.g. JPN has the highest debt-to-GDP ratio, and it has kept increasing over the past year, and as per the graph, it is having the most highest ratio amongst other countries in this list for 2019. While on the other hand, EST seems to have stable low ratio. The ratio is barely increansed over the last few years (except minor jump in 2019).
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/7692535"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 [Go Back](/README.md)
