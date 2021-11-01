@@ -8,6 +8,7 @@
 
 # Viz 2 (Flourish):
 ### Country wise Debt-To-GDP Ratio, marking 2019 vs 2018 & earlier
+Here we can easily compare data of 2019 (current) vs all the previous years, individually for each country separately. This shows the trend in the Debt-To-GDP ratio clearly. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7692412"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 [Go Back](/README.md)
