@@ -1,4 +1,4 @@
-# General government debt
+# General Government Debt
 
 ## Year: 2019
 
