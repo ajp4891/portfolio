@@ -12,4 +12,5 @@ Hi, I am Ajay Patel (He/Him/His). Currently I am a graduate student at CMU. I am
 
 Data Visualizations: 
 
-My First Visualization Find [Here](/dataviz2.md)
+1) My First Visualization:
+  - General government debt: [Click Here](/dataviz2.md)
