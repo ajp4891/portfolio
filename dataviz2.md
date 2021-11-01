@@ -16,7 +16,11 @@ Here we can easily compare data of 2019 (current) vs all the previous years, ind
 
 # Viz 3 (Customized):
 ### Heatmap for Debt-To-GDP trend over the years:
-Here we can see range of Debt to GDP trend of a country over the year clearly. The brighter color (blue) provides smooth eyeing of lower value while the gradient towards darker and shade of red provides much more intense and "attention seeking" glance for higher debts to the audience that would like to be alert viewing this chart and plan next steps accordingly. This chart provides simplicity in order to have an action-item planned, while previous line chart just gives the trend. Colors are wisely chosen to not give false satisfaction that the lower debt is a good, while in real-world having 0 debt is considered good (hence no green color for the lowest value for these data). Red provides alarming feel to it, additionally darker red gives more intense feel to it. Overall this graph provides brief understanding to the audience about current(2019) trend and position of countries in respect to Debt-To-GDP ratio.
+Here we can see the range for the Debt-to-GDP trend of a country over past few years. The brighter color (blue) provides smooth feel of lower value while the gradient towards darker and shade of red provides much more intense and "attention seeking" glance to the audience that would like to be alert viewing this chart and plan next steps accordingly. 
+
+   This chart provides simplicity in order to have an action-item planned, while previous line chart just gives the trend. Colors are wisely chosen to not give the false satisfaction that the lower debt is good, while in the real-world having 0 debt is considered good (hence no green color for the lowest value for these data). Red provides alarming feel to it, additionally darker red gives more intense feel, respectively. 
+   
+   Overall this graph provides a brief understanding to the audience about the current(2019) trend and position of countries in respect to Debt-To-GDP ratio and their previous position.
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/7692535"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 [Go Back](/README.md)
