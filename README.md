@@ -9,3 +9,7 @@ Hi, I am Ajay Patel (He/Him/His). Currently I am a graduate student at CMU. I am
 - Simplicity and the way to convey stories through the data visulization
 
 ## Portfolio
+
+Data Visualizations: 
+
+My First Visualization Find Here(/dataviz2.md)
