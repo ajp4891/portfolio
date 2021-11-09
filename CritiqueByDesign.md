@@ -1,12 +1,14 @@
 # Critique By Design:
 
-### Step one: find a data visualization (with data you can use!)
+### Step 1: Find a Data Visualization (with data you can use!)
+
+I Selected the below visualization that was originally posted on the Twitter and could be improved.
 
 ![Graph](/HealthCare_CritiqueByDesign_OG.png)
 
 Data Source: https://twitter.com/cynthiaccox/status/838950883622801408
 
-Image source: http://policyviz.com/wp-content/uploads/2017/03/ACA-ACHA-comparison.xlsx (Sheet 2)
+Image source: [Download XLSX](http://policyviz.com/wp-content/uploads/2017/03/ACA-ACHA-comparison.xlsx) (Sheet 2)
 
 
 ### Step two: critique the visualization
