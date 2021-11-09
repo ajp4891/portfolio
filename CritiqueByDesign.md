@@ -2,7 +2,7 @@
 
 ### Step one: find a data visualization (with data you can use!)
 
-[Graph](/HealthCare_CritiqueByDesign_OG.png)
+![Graph](/HealthCare_CritiqueByDesign_OG.png)
 
 Data Source: https://twitter.com/cynthiaccox/status/838950883622801408
 Image source: http://policyviz.com/wp-content/uploads/2017/03/ACA-ACHA-comparison.xlsx (Sheet 2)
