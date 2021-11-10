@@ -20,7 +20,22 @@ Even though this viz is simple, it lacks many elements to it, which could have i
 Colors are also minimal, which is good, however could be improved by assigning the gradient of colors to show the impact visually for the audience who would like to have a brief look. 
 
 
+
+
 ### Step 3: Wireframe a Solution
+
+###### Sketch 1: Dot Graph: US Average
+This was my first idea to plot a dot graph. This shows a difference between two tax credits values for ACA and AHCA, and also the gap (difference) for the change. However, this became sligthly difficult when I added more dimensions/measures to it. i.e. more number of counties/regions, age and salary range. Rather to give clear understanding, it became more complex, not only in understanding the chart but also to create it in the respective tools, given now Y axis has two dimensions already i.e. Main block of Age and inside block, inner chart of credit values. Adding one more dimension of County/region made it further complex. May be for given dataset, it is good to have only 1 regional details or average.
+![s1](/Sketch-1.png)
+
+
+
+###### Sketch 1: Bar Graph: US Average, Age vs Salary (different axes)
+
+Sketch two give more relevant details, similar to original but now Age is shifted to Y-axis. This makes it even better than the original in term to interpret the graph. These are my initial graph and I may experiment post feedback on the Actual tools with Actual data to make it further clear.
+![s1](/Sketch-2.png)
+
+
 
 ### Step 4: Test the Solution
 
