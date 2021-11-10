@@ -25,6 +25,9 @@ Colors are also minimal, which is good, however could be improved by assigning t
 ### Step 4: Test the Solution
 
 
+
+
+
 ### Step 5: Build Your Solution
 
 ##### Viz 1: AHCA Impact on Different Salaried and Age Group. USA Average vs Most-Cost vs Low-Cost.
@@ -44,11 +47,15 @@ Additionally, the average is kept in the middle so most and least cost counties 
 
 
 
+
+
 ##### Viz 2: Projection of ACA vs AHCA - 3 Years, 5 Years, 10 Years
 
 Once the above graph was built, and post feedback and critiquing, I realized we needed furthermore details on the values and impact of these changes in the future. User gets a better idea if they can see the projection that the possibility of the impact over time. The prediction shows simple two-line graph and the shaded region between these two lines highlighting the difference between these two region in the chart.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7778756"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
 
 
 
@@ -64,6 +71,10 @@ Additionally header for x axis is given on top so that user dont have to scroll 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7781322"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
+
+
+
+
 #### Data Source:
 Image source: [Download XLSX](http://policyviz.com/wp-content/uploads/2017/03/ACA-ACHA-comparison.xlsx) (Sheet 2)
 https://twitter.com/cynthiaccox/status/838950883622801408
@@ -72,5 +83,9 @@ https://www.kff.org/health-reform/issue-brief/how-affordable-care-act-repeal-and
 https://www.kff.org/health-reform/press-release/health-insurance-premiums-under-the-aca-vs-ahca-county-level-data/
 https://www.kff.org/interactive/tax-credits-under-the-affordable-care-act-vs-replacement-proposal-interactive-map/
 https://twitter.com/cynthiaccox/status/838950883622801408
+
+
+
+
 
 Go Back to [Home Page](/README.md)
