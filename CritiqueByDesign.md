@@ -17,28 +17,32 @@ It has one x-axis that has the entire story. This chart is trying to tell 3 diff
 
 Even though this viz is simple, it lacks many elements to it which could have improved viz's value. This Viz would only attract those audience who has prior understaning in the field as this doesnt give much details about waht is the ratio of the difference, whether the differnce is minor, major or neglible. Neither it mentions for which region, and whether if its a difference of an average or the sum.
 
-Colors are also minimal, which is good, however could be improved by assigning the gradient of colors to show the impact visually for the audience with a brief look, and attract the affected part of the viz. 
+Colors are also minimal, which is good, however could be improved by assigning the gradient of colors to show the impact visually for the audience who would like to have a brief look.  
 
 ### Step 3: Wireframe a Solution
 
 ### Step 4: Test the Solution
 
+
 ### Step 5: Build Your Solution
 
-##### viz 1
+##### Viz 1: AHCA Impact on Different Salaried and Age Group. USA Average vs Most-Cost vs Low-Cost.
+
+While 
 <div><div class='tableauPlaceholder' id='viz1636417525087' style='position: relative'><noscript><a href='#'><img alt='American Health Care Act Impact on Salaried Employee - 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;v1&#47;v1_Healthcare&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='v1_Healthcare&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;v1&#47;v1_Healthcare&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1636417525087');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1350px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1350px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script></div>
 
 
-##### viz 2
+##### Viz 2: Prediction of ACA vs AHCA - 3 Years, 5 Years, 10 Years
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7778756"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-##### viz 3
+##### Viz 3: ACA vs AHCA Tax Credit Comparison
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7781322"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 #### Data Source:
-
 Image source: [Download XLSX](http://policyviz.com/wp-content/uploads/2017/03/ACA-ACHA-comparison.xlsx) (Sheet 2)
 https://twitter.com/cynthiaccox/status/838950883622801408
 https://public.tableau.com/app/profile/ajay.patel6510/viz/v1_Healthcare/Dashboard1?publish=yes
