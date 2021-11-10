@@ -16,4 +16,4 @@ Data Visualizations:
   - General government debt: [Click Here](/dataviz2.md)
 
 2) Critique By Design
-  Critique By Design - [Click Here](/CritiqueByDesign.md)
+- Critique By Design - [Click Here](/CritiqueByDesign.md)
