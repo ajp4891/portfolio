@@ -70,6 +70,8 @@ Last thing I believed the color looks solid on the original graph, but that coul
 
 Additionally, the average is kept in the middle so most and least cost counties can be compared easily and gives a gradient effect on values of bars from top to bottom (high to low). The bar labels provide the difference value next to it, which is in terms of $1000. The fraction provides simpler and less congested viz.
 
+From the critque in step 4, I added a color as per the suggestion, used a block chart for showing 12 blocks, one for each region and salary combination. Within each block, age and salary combination provides details of the credit difference. On the other hand, critique suggested to add additional regions which I did in the graph, and not only that but also, as per the critic's idea, comparison between regions.
+
 
 
 <div><div class='tableauPlaceholder' id='viz1636417525087' style='position: relative'><noscript><a href='#'><img alt='American Health Care Act Impact on Salaried Employee - 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;v1&#47;v1_Healthcare&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='v1_Healthcare&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;v1&#47;v1_Healthcare&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1636417525087');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1350px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1350px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script></div>
@@ -82,6 +84,8 @@ Additionally, the average is kept in the middle so most and least cost counties 
 ##### Viz 2: Projection of ACA vs AHCA - 3 Years, 5 Years, 10 Years
 
 Once the above graph was built, and post feedback and critiquing, I realized we needed furthermore details on the values and impact of these changes in the future. User gets a better idea if they can see the projection that the possibility of the impact over time. The prediction shows simple two-line graph and the shaded region between these two lines highlighting the difference between these two regions in the chart.
+
+Based on the feedback on 4th step, Line graph was the first choice to show the Projections. Friend had seen the raw data, due to recent findings of the dataset of projections, he suggested to go with the line graph.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7778756"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -97,6 +101,8 @@ Finally, we come back to the main point that I identified while critiquing, whic
 The bar is grayed out for ACA, while it is blue for AHCA for easy eyeing to avoid making a mistake (due to only 1 column of AHCA and rest ACA). It is also sorted based on high to low value, on average. It is mainly grayed so that this graph can be kept as an optional for the user, if he may want to check out the actual credit value and not the difference. However, due to lack of data for each age group, I was able to display only the age 60's values.
 
 Additionally, header for x axis is given on top so that user don’t have to scroll all the way down, along with values next to each bin. Slight grayed background for bookish touch for the viewers, as of sticked chart.
+
+And finally as per the audience feedback in step 4, more countries are added, although not similar to chart 1 of step 5 but this has difference purpose in this whole sotry. This helps user to compare graph 1 and graph 3 individually country wise vs the US average vs the Most-Cost vs the Least-Cost regions.
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7781322"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
