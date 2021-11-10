@@ -107,7 +107,7 @@ Additionally, header for x axis is given on top so that user don’t have to scr
 
 
 #### Data Sources:
-- Image source: [Download XLSX](http://policyviz.com/wp-content/uploads/2017/03/ACA-ACHA-comparison.xlsx) (Sheet 2)
+- Image source: [Download XLSX](https://bit.ly/3wwS1zc) (Sheet 2)
 - https://twitter.com/cynthiaccox/status/838950883622801408
 - https://www.kff.org/health-reform/issue-brief/how-affordable-care-act-repeal-and-replace-plans-might-shift-health-insurance-tax-credits/
 - https://www.kff.org/health-reform/press-release/health-insurance-premiums-under-the-aca-vs-ahca-county-level-data/
