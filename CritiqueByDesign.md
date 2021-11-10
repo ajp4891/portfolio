@@ -102,7 +102,7 @@ The bar is grayed out for ACA, while it is blue for AHCA for easy eyeing to avoi
 
 Additionally, header for x axis is given on top so that user don’t have to scroll all the way down, along with values next to each bin. Slight grayed background for bookish touch for the viewers, as of sticked chart.
 
-And finally as per the audience feedback in step 4, more countries are added, although not similar to chart 1 of step 5 but this has difference purpose in this whole sotry. This helps user to compare graph 1 and graph 3 individually country wise vs the US average vs the Most-Cost vs the Least-Cost regions.
+And finally as per the audience feedback in step 4, more countries are added, although not similar to chart 1 of step 5 but this has different purpose in this whole sotry. This helps user to compare graph 1 and graph 3 individually country wise vs the US average vs the Most-Cost vs the Least-Cost regions.
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7781322"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
