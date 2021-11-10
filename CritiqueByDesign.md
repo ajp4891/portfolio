@@ -15,7 +15,7 @@ The visualization is quite straightforward giving information in the sleek desig
 
 It has one x-axis that has the entire story. This chart is trying to give the 3 different perspectives for the audience, one with the specific age, one who is in the specific salary range, and the last one is for overall picture of the US average (all data combined). Although, this x-axis gives a feel of Timeline as there is not Y-axis, while looking at the viz rapidly, which means the user may interpret the viz's meaning wrong, sensing the data presented from left to right as a timeline. Additionally, the X-axis has two dimensions overlapped, this could have been separated in X and Y axes combination, age being on the Y axis while salary on the X or vice-versa.
 
-Even though this viz is simple, it lacks many elements to it, which could have improved viz's purpose. This Viz would only attract those audience who has prior understanding in the field as this doesn’t give many details about what the ratio of the difference is, whether the difference is minor, major, or negligible comparatively to the original value. It also doesn’t mention for which region, and whether if it’s a difference of an average or the sum.
+Even though this viz is simple, it lacks many elements to it, which could have improved viz's purpose. This Viz would only attract those audience who has prior understanding in the field as this doesn’t give many details about what the ratio of the difference is, whether the difference is minor, major, or negligible compare to the original value. It also doesn’t mention for which region, and whether if it’s a difference of an average or the sum.
 
 Colors are also minimal, which is good, however could be improved by assigning the gradient of colors to show the impact visually for the audience who would like to have a brief look. 
 
@@ -30,11 +30,11 @@ Colors are also minimal, which is good, however could be improved by assigning t
 ##### Viz 1: AHCA Impact on Different Salaried and Age Group. USA Average vs Most-Cost vs Low-Cost.
 
 
-While I looked at the original graph, my first thought was why the graph is so simple and minimalistic (obviously in a good way, I like the minimalistic and simple viz). Then I tried to understand without the context, and I barely understood the viz. I realized this graph needs a touch up. I looked at the header and I partly understood the purpose of the graph, although not entirely that for e.g., how to read it precisely, what is the comparison, whether the difference is huge or less, whether the difference is specific to a state or a region or a county, and so on.
+While I looked at the original graph, my first thought was why the graph is so simple and minimalistic (obviously in a good way, I like the minimalistic and simple viz). Then I tried to understand without the context, and I barely understood the viz. I realized this graph needs a touch up. I looked at the header and I started partly understanding the purpose of the graph, although not entirely that for e.g., how to read it precisely, what is the comparison, whether the difference is huge or less, whether the difference is specific to a state or a region or a county, and so on.
 
 While going further in critiquing, I realized I may have to build the similar graph but slightly differently. Not only re-designing is required but more data/information is required that would provide additional context and comparable viz that adds to the understanding of not only experts but also novice audience. I, then, began to look for the original data source (I found originally from Twitter and so an URL to graph in Excel). Once I found KFF (data source), I looked for more relevant data and found additional details that helps me understand why Age and Salary mattered. I then started to anticipate the idea of my design. Age seemed quite better when put it on the Y-axis instead when merged with Salary on the X-axis. This gave quite a clear picture at first for the purpose of introducing Age and Salary in the graph. While going further, the difference made more sense when I started comparing with Counties that had Most and Least Cost in the state. This gave an idea where the US Average resides, and where each county could be placed, visually, if have to place mentally.
 
-Last thing I believed the color looks solid on the original graph, but that could be improved by introducing gradient for showing happy and sad effect on the AHCA impact comparatively to ACA. These two colors and the shade of these two, based on their lower/higher values, provides an overall idea to the audience that where more impact of the difference is. The columns of salary group, a vertical line keeps the visualization clean by segregating the salary range. Similarly for horizontal line separates region and US average for better understanding why original viz did not.
+Last thing I believed the color looks solid on the original graph, but that could be improved by introducing gradient for showing happy and sad effect on the AHCA impact compare to ACA. These two colors and the shade of these two, based on their lower/higher values, provides an overall idea to the audience that where more impact of the difference is. The columns of salary group, a vertical line keeps the visualization clean by segregating the salary range. Similarly for horizontal line separates region and US average for better understanding why original viz did not.
 
 Additionally, the average is kept in the middle so most and least cost counties can be compared easily, and gives a gradient effect on values of bars from top to bottom (high to low). The bar labels provides the difference value next to it, which is in termso of $1000. The fraction provides simpler and less congested viz.
 
@@ -44,9 +44,9 @@ Additionally, the average is kept in the middle so most and least cost counties 
 
 
 
-##### Viz 2: Prediction of ACA vs AHCA - 3 Years, 5 Years, 10 Years
+##### Viz 2: Projection of ACA vs AHCA - 3 Years, 5 Years, 10 Years
 
-Once the above graph was built post feedback and critiquing, I realized we needed furthermore details on the values and impact of these changes in the future. User gets a better idea if they can see the prediction that the possibility of the impact over time. The prediction shows simple two-line graph and the shaded region between these two lines highlighting the difference between these two region in the chart.
+Once the above graph was built, and post feedback and critiquing, I realized we needed furthermore details on the values and impact of these changes in the future. User gets a better idea if they can see the projection that the possibility of the impact over time. The prediction shows simple two-line graph and the shaded region between these two lines highlighting the difference between these two region in the chart.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7778756"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -54,6 +54,12 @@ Once the above graph was built post feedback and critiquing, I realized we neede
 
 
 ##### Viz 3: ACA vs AHCA Tax Credit Comparison
+
+Finally, the we come back to the main point that I identifiedi while critiquing, which is - "whether the difference is minor, major, or negligible compare to the original value", this below chart gives values, the original, for different salaried range. This gives a general idea. Additionally I have found details of ACA and AHCA values for each state (originally it was county wise in each state, which is now the average amongst all the counties for that state). This is a simple bar graph for each state in the United States. Along with the graph, there is filter to add/remove specific salaried group, or use to compare two or more specific salary group for ACA or AHCA. Note AHCA is same for all salary range below $75000. While displaying, I noticed salary range $75000 has all Zeros, hence removed the column for simiplicity.
+
+The bar is grayed out for ACA, while it is blue for AHCA for easy eyeing to avoid making a mistake (due to only 1 column of AHCA and rest ACA). It is also sorted based on high to low value, on average. It is mainly grayed so that this graph can be kept as an optional for the user, if he may want to check out the actual credit value and not the difference. However, due to lack of data for each age group, I was able to display only the age 60's values.
+
+Additionally header for x axis is given on top so that user dont have to scroll all the way down, along with values next to each bin. Slight grayed background for bookish touch for the viewers, as of sticked chart.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7781322"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
