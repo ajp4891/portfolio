@@ -30,7 +30,7 @@ This was my first idea to plot a dot graph. This shows a difference between two 
 
 
 
-###### Sketch 1: Bar Graph: US Average, Age vs Salary (different axes)
+###### Sketch 2: Bar Graph: US Average, Age vs Salary (different axes)
 
 Sketch two give more relevant details, similar to original but now Age is shifted to Y-axis. This makes it even better than the original in term to interpret the graph. These are my initial graph and I may experiment post feedback on the Actual tools with Actual data to make it further clear.
 ![s1](/Sketch-2.png)
@@ -38,7 +38,21 @@ Sketch two give more relevant details, similar to original but now Age is shifte
 
 
 ### Step 4: Test the Solution
+I presented my sketches to my friends and asked below questions:
+- Can you tell me what you think this is?
+- Can you describe to me what this is telling you?
+- Is there anything you find surprising or confusing?
+- Who do you think is the intended audience for this?
+- Is there anything you would change or do differently?
 
+Their responses were as follow: 
+- Can you tell me what you think this is? : Friend 1: he felt the graph was under-described in terms of details to understand what this graph is telling. He suggested to add headers to the chart and short description giving headline of the chart. Friend 2: The dot graph shows the gap of two different values, i.e. ACA and AHCA as per the legend. Comparing it with the graph 2, it shows the rise and fall based on the differences of ACA and AHCA, based on the age groups and income.
+
+- Can you describe to me what this is telling you? : Both: It is telling the rise and fall of two entities/values of ACA and AHCA. Lower the age, lesser the gap while more the age, more the difference is. Additionally, more the salary lesser the difference and lesser the salary, more the gap between these two values.
+
+- Is there anything you find surprising or confusing? : F1: Colors have any specific meaning? Why the chart 2 has different values for the x axis on the top? Having a more difference good or bad? 
+
+- Is there anything you would change or do differently? : F1: I'd have tried few charts to see if this fits, for e.g. Pie chart for each age and Income separately in blocks. Each block representing either an age or income. Add a comparison between two regions if you have more data. F2: try providing a color some measurement, such as age or income to eliminate double dimensions on either of axis. Show more regions, and a line chart having Age on the x-axis and incomes in a block, similar to tic-tac-toe board (as an example). 
 
 
 
