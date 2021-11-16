@@ -17,3 +17,6 @@ Data Visualizations:
 
 2) Critique By Design
 - Critique By Design - [Click Here](/CritiqueByDesign.md)
+
+3) Project - Part 1
+- Project - Part 1 - [Click Here](/ProjectPart1.md)
