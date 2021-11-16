@@ -27,6 +27,7 @@ Structure:
 
 
 4 - Netflix Profit Trend:
+
 ![Graph](/ProjectPart1-4.png)
 
 
