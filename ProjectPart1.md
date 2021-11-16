@@ -30,7 +30,7 @@ Structure:
 ![Graph](/ProjectPart1-4.png)
 
 
-5 - Total Usage of TV screen time in the US 
+5 - Total Usage of TV screen time in the US:
 ![Graph](/ProjectPart1-5.png)
 
 
