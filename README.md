@@ -24,14 +24,3 @@ Data Visualizations:
 4) Project - Part 2
 - Project - Part 2 - [Click Here](/ProjectPart2.md)
 
-
-
-
-
-
-
-
-
-
-
-Go Back to [Home Page](/README.md)
