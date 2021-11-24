@@ -1,16 +1,17 @@
 # Project Part 1
 
 ### Outline : 
-For the final project, I'd like to talk about the one Giant, Netflix, who established its own territory and opened up a new battlefield and gave birth to new rival organizations such as Disney, Hulu, Amazon prime etc on online streaming platform. Netflix has been in the market for many years but it is most often mistaken for the start up that came into the picture out of sudden. This particular case study would motivate the audience in understanding how one idea can create platforms and builds entirely a new market. How netflix managed to be so successful? What kind of strategy? Its user base, subscribers, investments in creativity, technology and content libraries for viewers, and other aspects. How it managed to establish its presence in the international arena, and how it benefitted from it. Its revenue and rival comparisons, unexplored territories and projected market share.
+For the final project, I'd like to talk about the one Giant, Netflix, who established its own territory and opened a new battlefield and gave birth to new rival organizations such as Disney, Hulu, Amazon prime etc. on online streaming platform. Netflix has been in the market for many years, but it is most often mistaken for the startup that came into the picture out of sudden. This case study would motivate the audience in understanding how one idea can create platforms and builds entirely a new market. How Netflix managed to be so successful? What kind of strategy? Its user base, subscribers, investments in creativity, technology and content libraries for viewers, and other aspects. How it managed to establish its presence in the international arena, and how it benefitted from it. Its revenue and rival comparisons, unexplored territories, and projected market share.
 
 Structure:
-- Growth - start by showing how Netflix was established, its position and other rival comparison in the early stage of previouse decade.
-- Market - Show the toatl revenue for the streaming market and the fiver year projection for the Revenue.
-- general Netflix stats - provide netflix's stats for its growth, market position against rivals, its subscription base, viewership, content library, most viewed original content etc
-- International Presence - Show how netfli explanded its reach, and how they managed to earn profits from international content. How they have invested in foreign films that provided huge profit for the company.
--  Strategy - discuss the timeline when netflix planned to change its strategy to move to content creation rather than just stream already built media/tvshows/movies etc, back in 2013.
--  COVID - how netflix survived COVID, and the stats in covid that made Netflix grow.
+- Growth - start by showing how Netflix was established, its position and other rival comparison in the early stage of previous decade.
+- Market - Show the total revenue for the streaming market and the five year projection for the Revenue.
+- general Netflix stats - provide Netflix’s stats for its growth, market position against rivals, its subscription base, viewership, content library, most viewed original content etc.
+- International Presence - Show how Netflix expanded its reach, and how they managed to earn profits from international content. How they have invested in foreign films that provided huge profit for the company.
+-  Strategy - discuss the timeline when Netflix planned to change its strategy to move to content creation rather than just stream already built media/TV shows/movies etc., back in 2013.
+-  COVID - how Netflix survived COVID, and the stats in covid that made Netflix grow.
 -  Conclude
+
 
 
 ### Sketches :
