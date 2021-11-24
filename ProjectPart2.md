@@ -20,6 +20,9 @@ This feedback gives me an idea to change the order of a few points/boards that I
 
 
 
+Storyboarding draft: 
+(Note: Some viz are not added in the draft as they are separately shown above. The new viz that are not build before, and are generated based on the audience feedback are added in the storyboard.
+Link to [StoryBoard Word Draft](https://drive.google.com/drive/folders/1-dcd816ZS-BUzzHp8PEK4kqcPbHvDKwo?usp=sharing)
 
 
 
