@@ -20,3 +20,6 @@ Data Visualizations:
 
 3) Project - Part 1
 - Project - Part 1 - [Click Here](/ProjectPart1.md)
+
+4) Project - Part 2
+- Project - Part 2 - [Click Here](/ProjectPart2.md)
