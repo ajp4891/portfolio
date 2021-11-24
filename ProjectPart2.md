@@ -13,6 +13,8 @@
 
 
 
+Feedback – updates on original outline or an idea of future updates.
+This feedback gives me an idea to change the order of a few points/boards that I had earlier. Alternatively, the feedback about Streaming Market share, the comparison with rivals and a "Streaming War" gives a perspective to change a story a bit in a different direction. Although this definitely calls for more data search, which is in progress (and if find the data in time, final Shorthand story could be perfectly tweaked around this topic). While the original storyline has a few tweaks, reordering being one of them, and adding more charts that provides the background of the streaming arena. 
 
 
 
