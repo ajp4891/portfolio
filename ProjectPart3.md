@@ -20,7 +20,7 @@ The majority of the story is new content compared to what was worked on in Parts
 
 ### Audience:
 
-Each home, particularly American families, is the target audience for "The Digital Domination." This page can also be used as a resource for new businesses entering the market. This article explains why it's critical to understand who will dominate the Entertainment/Video/Cable/Streaming industry.
+Each home, particularly American families, is the target audience for "The Digital Domination." This story can also be used as a resource for new businesses entering the market. This article explains why it's critical to understand who will dominate the Entertainment/Video/Cable/Streaming industry.
 
 According to data, people in the United States spend an average of 6-7 hours per day watching video content on various devices (such as mobile phones, televisions, and computers) and platforms (such as Instagram, Tok-tok, Netflix, or Cables etc.). We spend a significant amount of time watching video content, thus it is critical that we spend that time watching high-quality content rather than squandering it on low-quality stuff.
 
