@@ -70,7 +70,7 @@ Last thing I believed the color looks solid on the original graph, but that coul
 
 Additionally, the average is kept in the middle so most and least cost counties can be compared easily and gives a gradient effect on values of bars from top to bottom (high to low). The bar labels provide the difference value next to it, which is in terms of $1000. The fraction provides simpler and less congested viz.
 
-From the critque in step 4, I added a color as per the suggestion, used a block chart for showing 12 blocks, one for each region and salary combination. Within each block, age and salary combination provides details of the credit difference. On the other hand, critique suggested to add additional regions which I did in the graph, and not only that but also, as per the critic's idea, comparison between regions.
+From the critique  in step 4, I added a color as per the suggestion, used a block chart for showing 12 blocks, one for each region and salary combination. Within each block, age and salary combination provides details of the credit difference. On the other hand, critique suggested to add additional regions which I did in the graph, and not only that but also, as per the critic's idea, comparison between regions.
 
 
 
