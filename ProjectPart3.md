@@ -15,7 +15,7 @@ While working on part 1, the story was revolving around Netflix and how it has d
 In Part 2, main focus was on the sketches completed from Part 1, gathering user research and feedback on the story around Netflix.
 
 ### Summary Part 3:
-The majority of the story is new content compared to what was worked on in Parts 1 and 2. Part 1 and Part 2 data research, on the other hand, provided me with a more accurate version of the story I was trying to paint. Please find further insights below, including a clear rundown of how the main idea was constructed.
+The majority of the story is new content compared to what was worked on in Parts 1 and 2. Data research for the part 1 and Part 2, on the other hand, provided me with a more accurate version of the story I was trying to paint. Please find further insights below, including a clear rundown of how the main idea was constructed.
 
 
 ### Audience:
