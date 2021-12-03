@@ -48,7 +48,7 @@ After deciding to show who dominates this market, how this Streaming market evol
 
 The story was still all over the place at this point, and even with the additional facts and data I gathered, it was challenging to get the story straight. I began by working in sections. I started by constructing the structure of the story first. (i.e. rework of Project Part 1, but with the new storyline).
 
-##### Below is the initial draft of the Structure of the new story:
+##### Below is the initial raw draft of the Structure of the New Story:
 - Title: The Digital Domination - Your go-to video streaming platform in 2024 (/// The next future)
 - 1 How important is content in the average daily life.
 (Food, Clothing, Shelter. and Video Binging?)
