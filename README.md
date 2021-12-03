@@ -24,3 +24,8 @@ Data Visualizations:
 4) Project - Part 2
 - Project - Part 2 - [Click Here](/ProjectPart2.md)
 
+5) Project - Part 3
+- Project - Part 3 - [Click Here](/ProjectPart3.md)
+
+Final Story: [Click here](https://carnegiemellon.shorthandstories.com/the-digital-domination/index.html)
+
