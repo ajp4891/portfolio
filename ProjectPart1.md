@@ -57,6 +57,6 @@ Some of the below source sites have raw data while some have tabular data. Both 
 
 ### Method and Medium :
 
-I am planing on using the Shorthand for the project. Additionally, I will be using visualizing tools such as Tableau, Datawrapper and Flourish to convey idea. 
+I am planning on using the Shorthand for the project. Additionally, I will be using visualizing tools such as Tableau, Datawrapper and Flourish to convey idea. 
 
 Go Back to [Home Page](/README.md)
