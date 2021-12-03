@@ -5,7 +5,7 @@
 
 2) Project - Part 2: [Click Here](/ProjectPart2.md)
 
-3) Final Story: [Click here](https://carnegiemellon.shorthandstories.com/the-digital-domination/index.html)
+3) Final Story (Shorthand): [Click here](https://carnegiemellon.shorthandstories.com/the-digital-domination/index.html)
 
 --------------------------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ After deciding to show who dominates this market, how this Streaming market evol
 
 The story was still all over the place at this point, and even with the additional facts and data I gathered, it was challenging to get the story straight. I began by working in sections. I started by constructing the structure of the story first. (i.e. rework of Project Part 1, but with the new storyline).
 
-##### Below is the initial draft of the Structure of the new content:
+##### Below is the initial draft of the Structure of the new story:
 - Title: The Digital Domination - Your go-to video streaming platform in 2024 (/// The next future)
 - 1 How important is content in the average daily life.
 (Food, Clothing, Shelter. and Video Binging?)
@@ -62,7 +62,20 @@ Library Size, Before After
 you can’t avoid video platforms, you almost spend one fourth of our life on video content, why not invest smartly, cheap and on quality media. (Paraphrased in the final story)
 ---> Audience: General Public, families
 
+#### Rework of Part I and Part II for completing the new story in part III
+In the final project, I used certain sketches from Part 1 to develop new viz to support the new story, such as annual Netflix subscribers, Total Usage of TV Screen Time in the US (Cable vs. Streaming vs. Others), and data from other charts. First, I looked up data on Netflix's competitors and dug deeper into the Streaming Wars. Streaming wars was my second draft for the final project, with Netflix being the first. At this point, I began focusing solely on the Streaming Wars, spending days searching for data and designing a viz at random in order to build the story line. Unfortunately, after days of work, I had to scrap this idea as well because it lacked a strong call to action. In this category, I learned it's tough to build a compelling call to action.
 
+After doing further study on the subject of streaming wars, I had an epiphany when I asked myself why I would be so concerned about who would win the streaming wars. I began my investigation into the data on how users spend their daily time. The actual results surprised me, and it made me realize that I, too, am one of those users that spends hours and hours watching these shows and movies. This was a signal to me that I needed to improve my story and provide a compelling call to action.
+
+I began by drawing rough sketches and referring to numbers, which I showed to a few friends, getting an idea, and asking if the story made sense and had a better connection to every person's daily life. I received a positive response, and I chose to move in this direction. 
+
+Following the formation of a draft-story in accordance with the above revised structure, I continued my user research by asking same friends (with whom I had previously consulted for the user research), if they could tell me about their understanding of the viz without me having to explain it to them. They gave me comments,  and some of those important feedbacks are as followed:
+
+-They advised me to use a stacked bar chart instead of two grouped bar charts for a Daily usage time of a person in US. This not only distinguishes time spent on "Streaming" from time spent on "Other", but it also creates a visual picture of how much it represents altogether.
+- I can scrape Netflix's income graph because the rise of subscribers supports the point I was trying to illustrate, viz, Netflix's dominance in the streaming sector.
+- They also proposed using content as a supporting point in the story when audience understands Quality of content when combined with % of video streaming of each platform daily. (For example, the fact that Netflix consumes 35% of video streaming bandwidth and has a content library of over 5000 titles indicates that Netflix offers high-quality material, and thus customers spend more time on it.) Furthermore, retention data was intended to be removed from the main story originally, but friends' comment suggests that it, coupled with the previous two data (Bandwidth and Library), significantly supports the case for the quality.
+
+When looking at the facts holistically and in the sequence of a story conveyed to allow audience pick which platform is their next choice for investment, not only of money but also of one-third time their remaining life that they spend on videos, the call to action is evident for the audience.
 
 --------------------------------------------------------------------------------------------
 ### Links and References:
