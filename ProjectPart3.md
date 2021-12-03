@@ -9,12 +9,64 @@
 
 --------------------------------------------------------------------------------------------
 
+### Audience:
+
+Each home, particularly American families, is the target audience for "The Digital Domination." This page can also be used as a resource for new businesses entering the market. This article explains why it's critical to understand who will dominate the Entertainment/Video/Cable/Streaming industry.
+
+According to data, people in the United States spend an average of 6-7 hours per day watching video content on various devices (such as mobile phones, televisions, and computers) and platforms (such as Instagram, Tok-tok, Netflix, or Cables etc.). We spend a significant amount of time watching video content, thus it is critical that we spend that time watching high-quality content rather than squandering it on low-quality stuff.
+
+### Thought process while building up the story:
+In this article, the storyline is demonstrated by first establishing why it is necessary for the audience to know who will dominate the entertainment industry. Second, showing market potential in order to fully understand why more companies are expected to enter or where the industry will stand in the following five years. This will also help people in visualizing the existing market, which generates roughly $24 billion in revenue, as well as the forecasted market, which has the potential to nearly double, i.e. $42 billion, and the industry's current and future scenarios.
+
+Next, I wanted to highlight where traditional cable television fits into this new growing and digital industry, which is dominated in terms of revenue by internet platforms (mostly streaming platforms like Netflix). Why are cable TV subscriptions declining and the new trend, #CutTheCord, gaining traction? Cord cutters are primarily abandoning their cable television subscriptions due to the cost of these new evolving streaming platforms, on-demand content control, flexibility and portability, and the getting rid of channel bundling, which forces customers to pay extra for channels they are not even watching.
+
+Furthermore, I wanted to highlight how, in the United States, Netflix alone is capturing a market similar to the top 14 cable service providers. This demonstrates the growing popularity of online streaming platforms. Customers want not only choices, but also a cheaper and higher-quality cable television alternatives where they can choose whatever content they want to watch rather than being compelled to watch specified content at a specific time with frequent advertising in between. This was demonstrated by first introducing Netflix's history in my story, followed by its popularity over time (as determined by the number of subscribers). In addition, it shows the annual retention % of their subscriber base, which is extremely high when compared to competitors.
+
+Finally, presenting the current market situation, the Streaming War, in which dozens of platforms compete in the same sector. Where each production, such as Disney, Paramount, HBO, and others, pulls content from many networks and publishes it on their own Where each production, such as Disney, Paramount, HBO, and others, pulls content from many networks and publishes it on their own platform.
+
+The size of the library and the percentage of users streaming - suggests users an idea of which platform is the most popular. Furthermore, providing statistics on the most popular material in several categories such as TV Shows, Movies, and Originals helps to paint a clear image of the top seller. Although dominance is not the only conclusion that can be drawn from these statistics, it does demonstrate how the number of items in the library and the number of views - lead to the quality of the content in the library for that platform. The quality of the platform is further defined by the awards it receives for its original content. (Given an example of Netflix’s number of nominations and wins in Emmy Awards)
+
+Furthermore, displaying data on spending on original content reveals how much each platform is willing to lead this content war, as well as how each platform will define quality, uniqueness, versatility, or all in each piece of content they create or acquire in order to grow their subscriber base and stay competitive.
+
+While providing background on Netflix, it is important for the audience to understand how other companies in the market are performing and their strategies to compete with Netflix. Here, Disney+, which has recently gained a lot of attention due to their massive budget (due to their earlier presence and experience in the cable television industry) and the high quality of their content. In the near future, it is believed that Disney would emerge as a challenger for Netflix in the Streaming war. It's remarkable that Disney+ was able to obtain 100+ million subscribers in less than 16 months, given the fact that Netflix had been working on it for nearly 18 years.
+
+As a result of this article, readers will be able to determine which platform is the best or most likely to dominate the market in the near future, and where they should invest their money rather than passively watching random contents that may or may not be worth their time, money, and effort. This could mean ditching cable and switching to online streaming services like Netflix and Disney+.
+
+### Behind the scene
+Until I submitted part 2, the above story and direction were a bit unclear. Finding a proper story in this sector has been extremely stressful and time consuming for me. I had limited data, or could only find a portion of the facts, to construct a storyline around any single aspect of the current story. I had to blend numerous short stories to generate a bigger picture after struggling to ensure a good dataset to complete the entire story. This was extremely difficult to see at the time I was working on Part 2, and as a result, all the work completed after Part 2 was almost brand new.
+
+After deciding to show who dominates this market, how this Streaming market evolved, and how it affects our audience in their day-to-day lives for the next few years, I scrapped the idea of showing only NETFLIX's view, history, and market presence. Instead, I tried to show who dominates this market, how this Streaming market evolved, and how it affects our audience in their day-to-day lives for the next few years. After further investigation and a few days of back-to-back research, I discovered some statistics that helped me strengthen the narrative, such as the fact that the majority of the top 10 movies/tv episodes seen online are from Netflix. Netflix accounts for around a quarter of all the streaming internet traffic. Also, how Netflix has a 35 percent share of content views among video streaming services, and so on.
+
+The story was still all over the place at this point, and even with the additional facts and data I gathered, it was challenging to get the story straight. I began by working in sections. I started by constructing the structure of the story first. (i.e. rework of Project Part 1, but with the new storyline).
+
+##### Below is the initial draft of the Structure of the new content:
+- Title: The Digital Domination - Your go-to video streaming platform in 2024 (/// The next future)
+- 1 How important is content in the average daily life.
+(Food, Clothing, Shelter. and Video Binging?)
+- 2 (Optional) Market Establishment - Is the future really here?
+(Revenue Projection) 
+//// (Laying out the groundwork - show number of subscribers, spending, profits)  (scraped)
+- 3 - End of Cord?
+cable tv vs streaming, current market share, reasons of cutting the cord
+
+- 4 - Netflix - Winner!! Best is yet to come.
+History, Subscribers, retention
+Budget, content  (moved to streaming war),
+Amount, streaming  (scraped)
+
+- 5 - Streaming Wars!!!
+Library Size, Before After
+  - Cost, Quality Content, Spends, Revenue, Subscribers
+
+---> Call to action: Which subscriptions gives you best...?
+you can’t avoid video platforms, you almost spend one fourth of our life on video content, why not invest smartly, cheap and on quality media. (Paraphrased in the final story)
+---> Audience: General Public, families
 
 
 
 --------------------------------------------------------------------------------------------
-### References/Sources:
-• [DataSet Folder - Merged](https://drive.google.com/drive/folders/1qeDAjOWvkMXeAV5bklUTtyoR9FG_2A3o?usp=sharing)
+### Links and References:
+• [Dataset Folder - Merged](https://drive.google.com/drive/folders/1qeDAjOWvkMXeAV5bklUTtyoR9FG_2A3o?usp=sharing)
 •	[Link 1](https://www.internetadvisor.com/netflix-facts-statistics)
 •	[Link 2](https://www.latimes.com/entertainment-arts/business/story/2021-03-18/streaming-milestone-global-subscriptions-passed-1-billion-last-year-mpa-theme-report)
 •	[Link 3](https://variety.com/2020/tv/news/cable-tv-decline-streaming-cord-cutting-1234710007/)
